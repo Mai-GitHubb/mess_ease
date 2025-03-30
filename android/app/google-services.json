@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "183878040259",
+    "project_id": "messease-e12bc",
+    "storage_bucket": "messease-e12bc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183878040259:android:65fb76137e4382ee26c076",
+        "android_client_info": {
+          "package_name": "com.example.mess_ease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183878040259-08ovk0a6h5nj65fanv40fjrk7o5jt5sc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mess_ease",
+            "certificate_hash": "27c0ea98b820849b2be366f29bd66f3f7787a994"
+          }
+        },
+        {
+          "client_id": "183878040259-v535pb8esuv48ka8hplis0cdgh52teoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7LNrP0cY3VkxFqdaQcYaQ42NvJ_Auv2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183878040259-v535pb8esuv48ka8hplis0cdgh52teoj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "183878040259-kdmh3o93oh78hmp5acgu336vc1jougft.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.messEase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183878040259:android:696bb334df09913826c076",
+        "android_client_info": {
+          "package_name": "com.software.messease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183878040259-v535pb8esuv48ka8hplis0cdgh52teoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7LNrP0cY3VkxFqdaQcYaQ42NvJ_Auv2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183878040259-v535pb8esuv48ka8hplis0cdgh52teoj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "183878040259-kdmh3o93oh78hmp5acgu336vc1jougft.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.messEase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
